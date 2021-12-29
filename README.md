@@ -15,9 +15,9 @@ There are some ScreenShots:
 
 # Screen Images 1
 
-<img src=/src/screenshots/ss1.PNG width="950" height="700" >
+<img src=/src/screenshots/ss1.PNG width="950" height="800" >
 
 
 # Screen Images 2
 
-<img src=/src/screenshots/ss2.PNG width="950" height="700" >
+<img src=/src/screenshots/ss2.PNG width="950" height="800" >
