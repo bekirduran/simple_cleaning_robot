@@ -15,9 +15,9 @@ There are some ScreenShots:
 
 # Screen Images 1
 
-<img src=/lib/screenshots/ss1.png width="600" height="820">
+<img src=/simple_cleaning_robot/screenshots/ss1.png width="800" height="820">
 
 
 # Screen Images 2
 
-<img src=/lib/screenshots/ss2.png width="600" height="820">
+<img src=/simple_cleaning_robot/screenshots/ss2.png width="800" height="820">
